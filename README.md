@@ -5,7 +5,7 @@ Passei um tempo fora da area de dev, mas atualemnte voltei com tudo e focado em 
                                      adriano.junior.dss@gmail.com
                                      <link https://www.linkedin.com/in/adriano-junior-b9251a287/ >
   ## Ferramentas e Tecnologias
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+        
           
           
   
