@@ -1,11 +1,12 @@
-Olá, Devs!!! Bem vindo ao meu perfil do Github.
+##Olá, Devs!!! Bem vindo ao meu perfil do Github.
 Meu nome é Adriano e sou apaixonado por T.I., atualmente estou estudando node.js na Cubos Academy, mas ja tive experiencias com JAVA, C#, HTML, CSS, SQL...
 Passei um tempo fora da area de dev, mas atualemnte voltei com tudo e focado em backend.
 - 📫 Para entrar em contato comigo: +55 79 99927-3451
                                      adriano.junior.dss@gmail.com
                                      <link https://www.linkedin.com/in/adriano-junior-b9251a287/ >
   ## Ferramentas e Tecnologias
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
           
   
                                     
