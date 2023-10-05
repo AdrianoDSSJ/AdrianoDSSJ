@@ -1,6 +1,6 @@
 ### Olá, Devs!!! Bem vindo ao meu perfil do Github.
 Meu nome é Adriano e sou apaixonado por T.I., atualmente estou estudando node.js focado em Backend na Cubos Academy, mas ja tive experiencias com JAVA, C#, HTML, CSS, SQL...,
-uma curiosidade sobre mim é que eu adoro ir a academia e treinar ouvindo uma boa musica. 
+uma curiosidade sobre mim é que eu adoro ir a academia e treinar ouvindo uma boa música. 
 ## Contatos:
 +55 79 99927-3451 <br/>
 adriano.junior.dss@gmail.com <br/>
