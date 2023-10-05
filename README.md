@@ -1,9 +1,8 @@
-Olá, Devs!!! Bem vindo ao meu perfil do Github.
+### Olá, Devs!!! Bem vindo ao meu perfil do Github.
 Meu nome é Adriano e sou apaixonado por T.I., atualmente estou estudando node.js na Cubos Academy, mas ja tive experiencias com JAVA, C#, HTML, CSS, SQL...
-Passei um tempo fora da area de dev, mas atualemnte voltei com tudo e focado em backend.
 - 📫 Para entrar em contato comigo: +55 79 99927-3451
                                      adriano.junior.dss@gmail.com
-                                     <link https://www.linkedin.com/in/adriano-junior-b9251a287/ >
+                                     [Linkedin](https://www.linkedin.com/in/adriano-junior-b9251a287/) 
   ## Ferramentas e Tecnologias
         
           
@@ -11,18 +10,3 @@ Passei um tempo fora da area de dev, mas atualemnte voltei com tudo e focado em 
   
                                     
 
-
-<!--
-**AdrianoDSSJ/AdrianoDSSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
