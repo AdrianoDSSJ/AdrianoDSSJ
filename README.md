@@ -1,5 +1,5 @@
 ### Olá, Devs!!! Bem vindo ao meu perfil do Github.
-Meu nome é Adriano e sou apaixonado por T.I., atualmente estou estudando node.js focado em Backend na Cubos Academy, mas já tive experiencias com JAVA, C#, HTML, CSS, SQL...,
+Meu nome é Adriano e sou apaixonado por T.I., excelente em lógica de programação  e de boa convivência, principalmente em equipe, acostumado com metodologias ágeis, possuo experiencia em Node.js, Java, API Rest e SQL (Postgre e Oracle),
 uma curiosidade sobre mim é que eu adoro ir a academia e treinar ao som de uma boa música. 
 
   ## Ferramentas e Tecnologias 
