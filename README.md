@@ -1,5 +1,5 @@
 ### Olá, Devs!!! Bem vindo ao meu perfil do Github.
-Sou Adriano, um profissional de T.I. apaixonado por tecnologia e aprendizado contínuo. Tenho uma forte base em lógica de programação e experiência consolidada em desenvolvimento backend, trabalhando com Node.js e Java para construção de APIs REST eficientes e escaláveis. Além disso, tenho amplo conhecimento em bancos de dados SQL, como PostgreSQL e Oracle.
+Sou Adriano, um profissional de T.I. apaixonado por tecnologia e em aprendizado contínuo. Tenho uma forte base em lógica de programação e experiência consolidada em desenvolvimento backend, trabalhando com Node.js e Java para construção de APIs REST eficientes e escaláveis. Além disso, tenho amplo conhecimento em bancos de dados SQL, como PostgreSQL e Oracle.
 
 Estou acostumado a trabalhar com metodologias ágeis, colaborando com equipes multidisciplinares para entregar soluções de alta qualidade. Minha curiosidade e desejo constante de evoluir me fazem buscar sempre novas tecnologias e melhores práticas para otimizar processos e desenvolver soluções inovadoras.
 
