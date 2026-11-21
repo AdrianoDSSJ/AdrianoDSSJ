@@ -33,11 +33,10 @@ Sou um profissional de T.I. focado em transformar problemas operacionais em solu
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 Estatísticas do GitHub (Público & Privado)
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AdrianoDSSJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoDSSJ&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/AdrianoDSSJ/AdrianoDSSJ/main/github-metrics.svg" alt="Métricas do GitHub de Adriano" />
 </div>
 
 ---
