@@ -1,0 +1,32 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    # Atualiza automaticamente todos os dias às 03:00 UTC (00:00 horário de Brasília)
+    - cron: "0 3 * * *"
+  # Permite rodar manualmente pela aba Actions
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AdrianoDSSJ
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          repositories_affiliations: owner, collaborator, organization_member
+          config_timezone: America/Maceio
+          config_twemoji: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_lines: yes
