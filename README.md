@@ -1,15 +1,16 @@
 # Olá, eu sou o Adriano! 👋
 
-**Analista de Dados | Desenvolvedor Backend | Automação & Infraestrutura**
+**Analista de Dados | Desenvolvedor Backend & Full-Stack | Automação Corporativa**
 
-Sou um profissional de T.I. focado em transformar problemas operacionais em soluções eficientes e escaláveis. Com **4 anos de experiência prévia em Infraestrutura de T.I.**, construí uma base sólida que hoje aplico na **Análise de Dados**, no desenvolvimento de **automações corporativas** e na criação de **APIs REST**.
+Sou um profissional de T.I. focado em transformar gargalos operacionais e comerciais em sistemas web ágeis, auditáveis e escaláveis. Com **4 anos de experiência prévia em Infraestrutura de T.I.**, construí uma base técnica sólida que hoje aplico na **Análise de Dados**, no desenvolvimento de **aplicações web corporativas** e na criação de **APIs REST**.
 
 ---
 
 ### 🚀 O que eu faço
 
-- 📊 **Análise de Dados & Automação:** Estruturação e tratamento de dados, criação de fluxos automatizados e desenvolvimento de web apps internos com **Google Apps Script** e planilhas avançadas.
-- ⚙️ **Desenvolvimento Backend:** Arquitetura de sistemas, modelagem de dados e construção de APIs robustas com **Node.js**, **Java** e **C#**, integradas a bancos relacionais (**PostgreSQL**, **Oracle** e **MySQL**).
+- 📊 **Análise de Dados & Inteligência Comercial:** Tratamento de matrizes de dados, rotinas ETL automatizadas, cálculo dinâmico de KPIs (positivação, faturamento e estoque) e relatórios gerenciais para tomada de decisão.
+- 💻 **Sistemas Web & Automação Corporativa:** Desenvolvimento de plataformas *serverless* integradas ao ecossistema Google Workspace (Apps Script, Sheets, Drive) e interfaces modernas em **React**, **TypeScript** e **Tailwind CSS**, com foco em performance *client-side* (cache em memória, `localStorage`, sincronização em segundo plano), geolocalização, processamento de imagens (Canvas API) e leitura óptica de códigos de barras.
+- ⚙️ **Desenvolvimento Backend:** Arquitetura de sistemas, controle de acesso por perfil (RBAC), modelagem relacional e construção de APIs REST robustas com **Node.js**, **Java** e **C#**, integradas a bancos como **PostgreSQL**, **Oracle** e **MySQL**.
 - 🔄 **Cultura Ágil:** Experiência em equipes multidisciplinares aplicando metodologias ágeis para entregas contínuas e de alto impacto.
 
 ---
@@ -17,10 +18,14 @@ Sou um profissional de T.I. focado em transformar problemas operacionais em solu
 ### 🛠️ Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="TypeScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Vite" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="Tailwind CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Node.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="C#" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Google Apps Script" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg">
   <img align="center" alt="HTML5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -29,14 +34,6 @@ Sou um profissional de T.I. focado em transformar problemas operacionais em solu
   <img align="center" alt="MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-</div>
-
----
-
-### 📈 Estatísticas do GitHub (Público & Privado)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AdrianoDSSJ/AdrianoDSSJ/main/github-metrics.svg" alt="Métricas do GitHub de Adriano" />
 </div>
 
 ---
